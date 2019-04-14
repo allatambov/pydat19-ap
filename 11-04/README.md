@@ -10,4 +10,4 @@
 * [pythontutor visualizer](http://pythontutor.ru/visualizer/): визуализатор кода
 * [markdown](https://www.ibm.com/support/knowledgecenter/SSQNUZ_current/com.ibm.icpdata.doc/dsx/markd-jupyter.html): больше про markdown
 * [widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html): интерактивные виджеты в Jupyter Notebook
-* [https://ru.sharelatex.com/](ShareLateX): онлайн-редактор LaTeX для желающих, [https://www.overleaf.com/learn](документация) на английском 
+* [https://ru.sharelatex.com/](ShareLateX): онлайн-редактор LaTeX для желающих, [документация](https://www.overleaf.com/learn) на английском 
