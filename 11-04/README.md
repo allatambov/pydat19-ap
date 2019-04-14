@@ -1,8 +1,8 @@
 # 11-04
 
-* [intro-jupyter](https://nbviewer.jupyter.org/github/allatambov/py-dat19-ap/blob/master/11-04/intro-jupyter.ipynb): введение в Jupyter и Markdown
-* [intro-variables](https://nbviewer.jupyter.org/github/allatambov/py-dat19-ap/blob/master/11-04/intro-variables.ipynb): переменные в Python
-* [input-output](https://nbviewer.jupyter.org/github/allatambov/py-dat19-ap/blob/master/11-04/input-output.ipynb): ввод и вывод в Python
+* [intro-jupyter](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/11-04/intro-jupyter.ipynb): введение в Jupyter и Markdown
+* [intro-variables](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/11-04/intro-variables.ipynb): переменные в Python
+* [input-output](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/11-04/input-output.ipynb): ввод и вывод в Python
 
 **Дополнительно**
 
