@@ -1,0 +1,42 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/pydat19-ap/11-04
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4646fb6b87bc0f68f18185c5606790124ffed1fc600bfcbb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4646fb6b87bc0f68f18185c5606790124ffed1fc600bfcbb&token=4646fb6b87bc0f68f18185c5606790124ffed1fc600bfcbb
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: bcda4ca7-597e-4008-833a-d296dccecb17
+[NotebookApp | INFO] 302 GET /notebooks/test.png (::1) 1.26ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bcda4ca7-597e-4008-833a-d296dccecb17
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Saving file at /intro-jupyter.ipynb
+[NotebookApp | INFO] Starting buffering for bcda4ca7-597e-4008-833a-d296dccecb17:c128be9040ea49ff8b489bb463ee7cda
+[NotebookApp | INFO] Kernel started: 026bea08-d5cd-4080-8d17-0ff202379405
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 026bea08-d5cd-4080-8d17-0ff202379405
+[NotebookApp | INFO] Saving file at /intro-variables.ipynb
+[NotebookApp | INFO] Starting buffering for 026bea08-d5cd-4080-8d17-0ff202379405:4b84413a20d64373a16d5f856a09a7b8
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 677bba0a-f2e2-4f82-a21d-e81ebe8a8d95
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 677bba0a-f2e2-4f82-a21d-e81ebe8a8d95
+[NotebookApp | INFO] Saving file at /input-output.ipynb
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /input-output.ipynb
+[NotebookApp | WARNING] Notebook input-output.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 677bba0a-f2e2-4f82-a21d-e81ebe8a8d95:9f595dac205d4e40be7db10efa1b8d55
+[NotebookApp | INFO] Kernel started: 0db8405a-b670-4dd5-9dc8-6463c2bbe269
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0db8405a-b670-4dd5-9dc8-6463c2bbe269
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Starting buffering for 0db8405a-b670-4dd5-9dc8-6463c2bbe269:f18552c579704d979b0e5a52a5733de4
+[NotebookApp | INFO] Saving file at /README.md
