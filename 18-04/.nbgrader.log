@@ -1,0 +1,31 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/pydat19-ap/18-04
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=d1a8937283332516ff66e314c83924ffaf241d68ef719e57
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d1a8937283332516ff66e314c83924ffaf241d68ef719e57&token=d1a8937283332516ff66e314c83924ffaf241d68ef719e57
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: ec7fce6d-063c-4732-8c59-af6a933d6afc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ec7fce6d-063c-4732-8c59-af6a933d6afc
+[NotebookApp | INFO] Saving file at /lecture-lists.ipynb
+[NotebookApp | INFO] Starting buffering for ec7fce6d-063c-4732-8c59-af6a933d6afc:38e9918d37bd469eb9c4805deec4d6ea
+[NotebookApp | INFO] Kernel started: 4152760d-215e-4a08-b009-481edd975185
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4152760d-215e-4a08-b009-481edd975185
+[NotebookApp | INFO] Starting buffering for 4152760d-215e-4a08-b009-481edd975185:1c3d2a37a66145ce893b2221704e135d
+[NotebookApp | INFO] Kernel started: 28690223-b59d-4f46-97b3-0755d637c36c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 28690223-b59d-4f46-97b3-0755d637c36c
+[NotebookApp | INFO] Starting buffering for 28690223-b59d-4f46-97b3-0755d637c36c:91cc25709ec544dd831f9e12c422cfa2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4152760d-215e-4a08-b009-481edd975185
+[NotebookApp | INFO] Saving file at /lecture-tuples-dicts.ipynb
+[NotebookApp | INFO] Starting buffering for 4152760d-215e-4a08-b009-481edd975185:e8d1a39ab647420e85d4038d0233201c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 28690223-b59d-4f46-97b3-0755d637c36c
+[NotebookApp | INFO] Saving file at /strings.ipynb
+[NotebookApp | INFO] Starting buffering for 28690223-b59d-4f46-97b3-0755d637c36c:738038bbaa66467b8dac17447a4ec848
+[NotebookApp | INFO] Creating new file in 
+[NotebookApp | INFO] Saving file at /README.md
