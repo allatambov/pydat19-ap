@@ -1,0 +1,26 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/pydat19-ap/16-05
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=308fb9b25de342e2fbeca620eec43b0ac97b0ebffdbc4449
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=308fb9b25de342e2fbeca620eec43b0ac97b0ebffdbc4449&token=308fb9b25de342e2fbeca620eec43b0ac97b0ebffdbc4449
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 7eef7814-26fe-4c3d-8cdc-6032ef376c2a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7eef7814-26fe-4c3d-8cdc-6032ef376c2a
+[NotebookApp | INFO] Starting buffering for 7eef7814-26fe-4c3d-8cdc-6032ef376c2a:d4ac1183e4fd44118486a9011f0c64fa
+[NotebookApp | INFO] Kernel restarted: 7eef7814-26fe-4c3d-8cdc-6032ef376c2a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7eef7814-26fe-4c3d-8cdc-6032ef376c2a
+[NotebookApp | INFO] Restoring connection for 7eef7814-26fe-4c3d-8cdc-6032ef376c2a:d4ac1183e4fd44118486a9011f0c64fa
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /texts.ipynb
+[NotebookApp | INFO] Saving file at /texts.ipynb
+[NotebookApp | INFO] Saving file at /texts.ipynb
+[NotebookApp | INFO] Saving file at /texts.ipynb
+[NotebookApp | INFO] Saving file at /texts-part1.ipynb
+[NotebookApp | INFO] Starting buffering for 7eef7814-26fe-4c3d-8cdc-6032ef376c2a:d4ac1183e4fd44118486a9011f0c64fa
