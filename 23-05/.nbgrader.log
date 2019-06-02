@@ -1,0 +1,71 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/pydat19-ap/23-05
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=afc0ed8f77fa0934cf8bb2fd16a28cdf58e68780b89322b3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=afc0ed8f77fa0934cf8bb2fd16a28cdf58e68780b89322b3&token=afc0ed8f77fa0934cf8bb2fd16a28cdf58e68780b89322b3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 95671ac1-b64f-4524-bd7c-18c1071cbba1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95671ac1-b64f-4524-bd7c-18c1071cbba1
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for 95671ac1-b64f-4524-bd7c-18c1071cbba1:c749b17ac60b4916bb130c3f373745ed
+[NotebookApp | INFO] Kernel restarted: 95671ac1-b64f-4524-bd7c-18c1071cbba1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95671ac1-b64f-4524-bd7c-18c1071cbba1
+[NotebookApp | INFO] Restoring connection for 95671ac1-b64f-4524-bd7c-18c1071cbba1:c749b17ac60b4916bb130c3f373745ed
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Kernel interrupted: 95671ac1-b64f-4524-bd7c-18c1071cbba1
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for 95671ac1-b64f-4524-bd7c-18c1071cbba1:c749b17ac60b4916bb130c3f373745ed
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/pydat19-ap/23-05
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/?token=bf43c46cfbe3d156cc33dedefdbc52e4268b866e68fd6a56
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=bf43c46cfbe3d156cc33dedefdbc52e4268b866e68fd6a56&token=bf43c46cfbe3d156cc33dedefdbc52e4268b866e68fd6a56
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Kernel restarted: 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Restoring connection for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Replaying 7 buffered messages
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Kernel restarted: 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Restoring connection for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Starting buffering for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Kernel restarted: 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 990a883e-5798-45cd-be6e-c7c1662af82c
+[NotebookApp | INFO] Restoring connection for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b
+[NotebookApp | INFO] Replaying 7 buffered messages
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Saving file at /base_pandas.ipynb
+[NotebookApp | INFO] Starting buffering for 990a883e-5798-45cd-be6e-c7c1662af82c:d0b5c738b65940d08f43852072b4e83b

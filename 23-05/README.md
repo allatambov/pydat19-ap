@@ -1,7 +1,7 @@
-# 7 марта
+# 23 мая
 
-* numpy-2: лекция по работе с массивами средствами библиотеки NumPy ([ссылка](https://github.com/allatambov/py-dat19/blob/master/07-03/numpy-2.ipynb))
-* base_pandas: лекция по основам работы с таблицами ([ссылка](https://github.com/allatambov/py-dat19/blob/master/07-03/base_pandas.ipynb))
+* files_pandas: загрузка данных из Excel и csv [ссылка](https://github.com/allatambov/py-dat19-ap/blob/master/23-05/files_pandas.ipynb))
+* base_pandas: лекция по основам работы с таблицами ([ссылка](https://github.com/allatambov/py-dat19-ap/blob/master/23-05/base_pandas.ipynb))
 
 Дополнительно:
 
