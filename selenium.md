@@ -4,6 +4,7 @@
 * [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 *  [Отправка писем](https://nbviewer.jupyter.org/github/allatambov/PyProg-2018/blob/master/14-12/py-gmail.ipynb) gmail
 
+* http://math-info.hse.ru/f/2018-19/py-polit/vk-auth.pdf
 ```
 br = wd.Chrome('/Users/allat/Downloads/chromedriver') 
 
