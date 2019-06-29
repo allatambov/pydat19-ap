@@ -1,0 +1,27 @@
+def get_info(url0):
+    page0 = requests.get(url0)
+    soup0 = BeautifulSoup(page0.text, "lxml") 
+    
+    author = soup0.find_all('meta', 
+               {'name' : 'author'})[0].get('content')
+    date = soup0.find_all('time')[0].get('content')
+    time = soup0.find_all('time')[0].find_all('span')[0].text
+    desc = soup0.find_all('meta', 
+               {'name' : 'description'})[0].get('content') 
+    title = soup0.find_all('meta', 
+               {'property': 'og:title'})[0].get('content')
+    diffc = soup0.find_all('span', 
+               {'class': 'difficult-value'})[0].text
+    rubrics_soup = soup0.find_all('p', 
+               {'class': 'table'})[0].find_all('a') 
+    rubrics = [s.text for s in rubrics_soup]
+    rubrics_str = " ".join(rubrics)
+    text_soup = soup0.find_all('p', {'class': None}) 
+    text_list = [t.text for t in text_soup] 
+    text = " ".join(text_list)
+    text_final = text.split("Нашли опечатку?")[0]
+    text_final = text_final.replace("\xa0", " ")
+    text_final = text_final.replace("\n", " ")
+    
+    return [url0, title, desc, author, date, time, rubrics_str, 
+           text_final, diffc] 
